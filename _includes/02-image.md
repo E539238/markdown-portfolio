@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Imagen de GitHub] (https://www.redeszone.net/app/uploads/2017/11/github-duplica-codigo.jpg)
