@@ -1,1 +1,1 @@
-![Imagen de GitHub] (https://www.redeszone.net/app/uploads/2017/11/github-duplica-codigo.jpg)
+![Imagen de GitHub] (https://fr.wikipedia.org/wiki/GitHub#/media/File:Octicons-mark-github.svg)
